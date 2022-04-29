@@ -11,7 +11,7 @@ static void InitializeGlutCallbacks()
 {
     glutDisplayFunc(RenderSceneCB);
 }
-
+ 
 
 int main(int argc, char** argv)
 {
